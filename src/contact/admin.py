@@ -4,7 +4,7 @@ from django.contrib import admin
 from .models import Contact
 
 class contactadmin(admin.ModelAdmin):
-    class Meta:
         model = Contact
+        search_fields = ['email']
 
 admin.site.register(Contact, contactadmin)
