@@ -39,7 +39,11 @@
       <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/contact/admin.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="255">
+=======
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+>>>>>>> ec82ea17a0403cca5d0f7ee336bc1f622defcb8a
               <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
               <folding />
             </state>
@@ -61,7 +65,11 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/views.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="306">
+=======
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+>>>>>>> ec82ea17a0403cca5d0f7ee336bc1f622defcb8a
               <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
@@ -103,8 +111,13 @@
       <file leaf-file-name="index2.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/templates/index2.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="0.45259392" vertical-offset="3521" max-vertical-offset="5644">
               <caret line="222" column="220" selection-start-line="222" selection-start-column="220" selection-end-line="222" selection-end-column="220" />
+=======
+            <state vertical-scroll-proportion="0.2701252" vertical-offset="1702" max-vertical-offset="5627">
+              <caret line="109" column="103" selection-start-line="109" selection-start-column="103" selection-end-line="109" selection-end-column="103" />
+>>>>>>> ec82ea17a0403cca5d0f7ee336bc1f622defcb8a
               <folding>
                 <element signature="n#style#0;n#p#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -116,7 +129,11 @@
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/helmet/urls.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="289">
+=======
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+>>>>>>> ec82ea17a0403cca5d0f7ee336bc1f622defcb8a
               <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding>
                 <element signature="e#0#51#0" expanded="true" />
@@ -193,6 +210,10 @@
       <sortByType />
     </navigator>
     <panes>
+<<<<<<< HEAD
+=======
+      <pane id="Scope" />
+>>>>>>> ec82ea17a0403cca5d0f7ee336bc1f622defcb8a
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -325,12 +346,18 @@
           </PATH>
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="Scope" />
+=======
+>>>>>>> ec82ea17a0403cca5d0f7ee336bc1f622defcb8a
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="Html5" />
+<<<<<<< HEAD
     <property name="FullScreen" value="false" />
+=======
+>>>>>>> ec82ea17a0403cca5d0f7ee336bc1f622defcb8a
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -469,9 +496,12 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+<<<<<<< HEAD
   <component name="SvnConfiguration">
     <configuration />
   </component>
+=======
+>>>>>>> ec82ea17a0403cca5d0f7ee336bc1f622defcb8a
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="adfef1a3-8ffe-4612-85df-8d2dcf5f8789" name="Default" comment="" />
@@ -527,6 +557,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/contact/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="578">
@@ -691,6 +722,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> ec82ea17a0403cca5d0f7ee336bc1f622defcb8a
     <entry file="file://$PROJECT_DIR$/src/contact/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="510">
@@ -705,6 +738,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="340">
           <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+<<<<<<< HEAD
+=======
+          <folding>
+            <element signature="e#25#49#0" expanded="false" />
+          </folding>
+>>>>>>> ec82ea17a0403cca5d0f7ee336bc1f622defcb8a
         </state>
       </provider>
     </entry>
@@ -795,6 +834,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="340">
           <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+<<<<<<< HEAD
+=======
+          <folding>
+            <element signature="e#25#49#0" expanded="false" />
+          </folding>
+>>>>>>> ec82ea17a0403cca5d0f7ee336bc1f622defcb8a
         </state>
       </provider>
     </entry>
@@ -884,6 +929,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
           <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+<<<<<<< HEAD
+=======
+          <folding>
+            <element signature="e#25#49#0" expanded="false" />
+          </folding>
+>>>>>>> ec82ea17a0403cca5d0f7ee336bc1f622defcb8a
         </state>
       </provider>
     </entry>
@@ -969,8 +1020,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static/templates/index2.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.45259392" vertical-offset="3521" max-vertical-offset="5644">
           <caret line="222" column="220" selection-start-line="222" selection-start-column="220" selection-end-line="222" selection-end-column="220" />
+=======
+        <state vertical-scroll-proportion="0.2701252" vertical-offset="1702" max-vertical-offset="5627">
+          <caret line="109" column="103" selection-start-line="109" selection-start-column="103" selection-end-line="109" selection-end-column="103" />
+>>>>>>> ec82ea17a0403cca5d0f7ee336bc1f622defcb8a
           <folding>
             <element signature="n#style#0;n#p#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
