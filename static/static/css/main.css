@@ -2712,7 +2712,7 @@
 		-webkit-align-items: center;
 		-ms-align-items: center;
 		align-items: center;
-		margin-bottom: 6em;
+		margin-bottom: 1em;
 	}
 
 		.feature:last-child {
@@ -2795,7 +2795,7 @@
 		}
 
 	.feature {
-		background-color: rgba(144, 144, 144, 0.075);
+		
 	}
 
 /* Image Grid */
